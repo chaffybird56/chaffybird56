@@ -7,7 +7,7 @@
   <img alt="chip: vision" src="https://img.shields.io/badge/vision-0d1117?style=flat&labelColor=FFD1DC&color=0d1117">
   <img alt="chip: control" src="https://img.shields.io/badge/control-0d1117?style=flat&labelColor=FFFACD&color=0d1117">
 <p style="text-align: left; margin: 0;">
-    <img src="hero.jpg" alt="violet evergarden — hero" width="460">
+    <img src="hero.jpg" alt="violet evergarden — hero" width="400">
 </p>
 
 <div style="text-align: left; margin: 0;">
@@ -31,7 +31,7 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: -5px;">
-    <img src="hero-snow.jpg" alt="garden still" width="460" style="margin: 0 88px; border-radius: 6px;">
+    <img src="hero-snow.jpg" alt="" width=400" style="margin: 0 88px; border-radius: 6px;">
     
 </div>
 
