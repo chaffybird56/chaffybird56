@@ -38,10 +38,9 @@
 <br/>
 
 <!-- untitled on purpose -->
-| so | true |
-|---|---|
 | begin small, return often | consistency outlives intensity |
-| Clarity over complexity | intention is the root of coherance |
+|---|---|
+| clarity over complexity | intention is the root of coherance |
 | respect constraints | limits sharpen taste |
 | reduce the noise | queit defines the signal |
 | less friction, more flow | context precedes computation |
