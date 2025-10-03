@@ -45,6 +45,6 @@
 | respect constraints | limits sharpen taste |
 | reduce the noise | queit defines the signal |
 | less friction, more flow | context precedes computation |
-| light before compute | environment first |
-| keep receipts | numbers tell stories |
+| honor the latency | the symptom reveals the system |
+| show, don't tell | the artifact speaks for itself |
 
