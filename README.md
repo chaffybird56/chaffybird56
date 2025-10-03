@@ -12,7 +12,7 @@
 
 <div style="text-align: left; margin: 0;">
     <img
-        src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=900&color=A6DCEF&center=false&vCenter=true&lines=quiet+work%2C+clear+outputs;letters+to+future+builds"
+        src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=900&color=A6DCEF&center=false&vCenter=true&lines=Build+with+intent;Deep+focus%2C+light+footprint"
         alt="typing svg"
         style="display: block;"
     >
