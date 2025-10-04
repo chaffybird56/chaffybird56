@@ -42,7 +42,7 @@
 |---|---|
 | clarity over complexity | intention is the root of coherance |
 | respect constraints | limits sharpen taste |
-| reduce the noise | queit defines the signal |
+| reduce the noise | quiet defines the signal |
 | less friction, more flow | context precedes computation |
 | honor the latency | the symptom reveals the system |
 | show, don't tell | the artifact speaks for itself |
