@@ -34,6 +34,8 @@
     <img src="hero-snow.jpg" alt="" width=400" style="margin: 0 88px; border-radius: 6px;">   
 </div>
 -->
+
+
 <!-- untitled on purpose -->
 | begin small, return often | consistency outlives intensity |
 |---|---|
