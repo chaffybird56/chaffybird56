@@ -37,7 +37,7 @@
 
 
 <!-- untitled on purpose -->
-| begin small, return often | consistency outlives intensity |
+| begin small, return often |consistency outlives intensity |
 |---|---|
 | clarity over complexity | intention is the root of coherance |
 | respect constraints | limits sharpen taste |
