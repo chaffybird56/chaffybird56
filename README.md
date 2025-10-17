@@ -1,6 +1,6 @@
 
 
-### hi — i’ ahmad >!
+### hi — i’m ahmad >!
 <p align="left">
   <img alt="chip: hardware" src="https://img.shields.io/badge/hardware-0d1117?style=flat&labelColor=A6DCEF&color=0d1117">
   <img alt="chip: software" src="https://img.shields.io/badge/software-0d1117?style=flat&labelColor=A6E3B8&color=0d1117">
