@@ -21,7 +21,7 @@
 
 ---
 
-<!-- compact languages; bars hidden; transparent bg -->
+<!-- compact language; bars hidden; transparent bg -->
 <p>
   <img
     alt="Top languages"
