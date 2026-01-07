@@ -13,14 +13,6 @@
 
 ---
 
-<img
-  alt="Top languages"
-  height="157"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaffybird56&layout=compact&hide_progress=true&langs_count=8&bg_color=00000000&title_color=A6DCEF&text_color=CDD6F4&hide_border=true"
-/>
-
----
-
 | begin small, return often | consistency outlives intensity |
 |---|---|
 | clarity over complexity | intention is the root of coherence |
