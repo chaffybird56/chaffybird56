@@ -10,15 +10,6 @@
     <img src="hero.jpg" alt="violet evergarden — hero" width="400">
 </p>
 
-<div style="text-align: left; margin: 0;">
-    <img
-        src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=900&color=A6DCEF&center=false&vCenter=true&lines=build+with+intent;"
-        alt="typing svg"
-        style="display: block;"
-    >
-</div>
-
-
 ---
 
 <!-- compact language; bars hidden; transparent bg -->
